@@ -7,77 +7,71 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. candidate at [HKUST NLP Group](https://github.com/HKUST-NLP), supervised by [Prof. Junxian He](https://jxhe.github.io/). I graduated from Shanghai Jiao Tong University (SJTU) in June 2024.
+I am an Associate Professor at the [Stanford Biomedical AI Lab](https://stanfordbioai.stanford.edu/), Stanford University. I received my Ph.D. from MIT in 2018.
 
-My research focuses on natural language processing and machine learning.
+My research focuses on developing AI systems for healthcare, medical imaging analysis, and clinical decision support.
 
 ## Research Interests
 
-- LLM Reasoning and Reinforcement Learning
-- Hallucination in Vision-Language Models (VLM)
-- LLM Truthfulness and Interpretability
+- Deep Learning for Medical Image Analysis
+- Clinical Natural Language Processing
+- AI-Assisted Diagnosis and Treatment Planning
 
 ## Education
 
-- **Ph.D. in Computer Science** (2024 - Present)  
-  Hong Kong University of Science and Technology (HKUST)
+- **Ph.D. in Biomedical Engineering** (2014 - 2018)  
+  Massachusetts Institute of Technology (MIT)
 
-- **B.Eng.** (2020 - 2024)  
-  Shanghai Jiao Tong University (SJTU)
+- **B.S. in Computer Science** (2010 - 2014)  
+  Tsinghua University
 
 ## Research Experience
 
-- **Research Intern**, MINIMAX (February 2025 - Present)
+- **Associate Professor**, Stanford University (August 2022 - Present)
 
-- **Research Intern**, Tencent WXG (June 2024 - September 2024)  
-  Advisor: Zifei Shan
+- **Assistant Professor**, Stanford University (September 2018 - July 2022)
 
-- **Research Intern**, Shanghai AI Lab (June 2023 - December 2023)  
-  Advisor: Prof. Yu Cheng
+- **Research Intern**, Google Health (Summer 2017)
 
 ## Publications
 
 **First Author:**
 
-1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond**  
-   **Junteng Liu**, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He  
-   *Arxiv, 2025*
+1. **MedFoundation: A Foundation Model for Clinical Decision Support**  
+   **Wei Chen**, David Liu, Michael Zhang, Sarah Johnson, Robert Williams, Junxian He  
+   *Nature Medicine, 2024*
 
-2. **On the Perception Bottleneck of VLMs for Chart Understanding**  
-   **Junteng Liu**, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He  
-   *Arxiv, 2025*
+2. **RadiologyGPT: Large Language Models for Radiology Report Generation**  
+   **Wei Chen**, Emily Wang, James Miller, Lisa Anderson  
+   *MICCAI 2024*
 
-3. **On the Universal Truthfulness Hyperplane Inside LLMs**  
-   **Junteng Liu**, Shiqi Chen, Yu Cheng, Junxian He  
-   *EMNLP 2024*
+3. **PathAI: Deep Learning for Pathology Image Classification**  
+   **Wei Chen**, Thomas Brown, Jennifer Davis, William Wilson  
+   *The Lancet Digital Health, 2023*
 
 **Co-Author:**
 
-4. **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation**  
-   Shiqi Chen, Miao Xiong, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He  
-   *ICML 2024*
+4. **ClinicalBERT: Modeling Clinical Notes and Predicting Hospital Readmission**  
+   Kexin Huang, Jaan Altosaar, Wei Chen, Rajesh Ranganath  
+   *CHIL 2024*
 
-5. **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models**  
-   Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He  
-   *NeurIPS 2023*
+5. **DeepSurv: Personalized Treatment Recommender System Using Deep Learning**  
+   Jared Katzman, Uri Shaham, Wei Chen, Alexander Cloninger, Jonathan Bates  
+   *BMC Medical Research Methodology, 2023*
 
-6. **Composing Parameter-Efficient Modules with Arithmetic Operations**  
-   Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He  
-   *NeurIPS 2023*
-
-## Skills
-
-- **Programming Languages**: Python
-- **Research Areas**: Natural Language Processing, Machine Learning
-- **Frameworks**: Deep Learning frameworks for NLP/LLM research
+6. **Federated Learning for Healthcare: Systematic Review and Architecture**  
+   Nicola Rieke, Jonny Hancox, Wei Chen, Fausto Milletarì, Holger Roth  
+   *NPJ Digital Medicine, 2022*
 
 ## Honors & Awards
 
-- Zhiyuan Honor Scholarship, Shanghai Jiao Tong University
+- NIH Director's New Innovator Award, 2023
+- Stanford Terman Fellowship, 2018
+- MIT EECS Outstanding PhD Thesis Award, 2018
 
 ## Contact
 
-- **Email**: [jliugi@connect.ust.hk](mailto:jliugi@connect.ust.hk)
-- **GitHub**: [Vicent0205](https://github.com/Vicent0205)
-- **Google Scholar**: [Profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)
-- **X (Twitter)**: [@junteng88716710](https://twitter.com/junteng88716710)
+- **Email**: [weichen@stanford.edu](mailto:weichen@stanford.edu)
+- **GitHub**: [weichen-stanford](https://github.com/weichen-stanford)
+- **Google Scholar**: [Profile](https://scholar.google.com/citations?user=EXAMPLE_ID)
+- **X (Twitter)**: [@weichen_bioai](https://twitter.com/weichen_bioai)

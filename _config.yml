@@ -2,37 +2,34 @@
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
-# server process.
 
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Junteng Liu"
+title                    : "Wei Chen"
 title_separator          : "-"
-name                     : &name "Junteng Liu"
-description              : &description "Junteng Liu's academic portfolio"
+name                     : &name "Wei Chen"
+description              : &description "Wei Chen's academic portfolio"
 url                      : https://xmhtoolathlon.github.io
-baseurl                  : "/LJT-Homepage"
-repository               : "xmhtoolathlon/LJT-Homepage"
+baseurl                  : "/WC-Homepage"
+repository               : "xmhtoolathlon/WC-Homepage"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Junteng Liu"
+  name             : "Wei Chen"
   pronouns         : 
-  bio              : "Ph.D. Candidate at HKUST NLP Group"
-  location         : "Hong Kong"
-  employer         : "Hong Kong University of Science and Technology"
+  bio              : "Associate Professor at Stanford Biomedical AI Lab"
+  location         : "Stanford, California"
+  employer         : "Stanford University"
   uri              : 
-  email            : "jliugi@connect.ust.hk" 
+  email            : "weichen@stanford.edu" 
 
   # Academic websites
   academia         : 
   arxiv            : 
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate"
+  googlescholar    : "https://scholar.google.com/citations?user=EXAMPLE_ID"
   inspire-hep      : 
   impactstory      : 
   orcid            : 
@@ -48,7 +45,7 @@ author:
   bitbucket        : 
   codepen          : 
   dribbble         : 
-  github           : "Vicent0205"
+  github           : "weichen-stanford"
   kaggle           :   
   stackoverflow    :     
 
@@ -71,7 +68,7 @@ author:
   steam            : 
   telegram         : 
   tumblr           : 
-  twitter          : "junteng88716710"
+  twitter          : "weichen_bioai"
   vine             : 
   weibo            : 
   wikipedia        : 
@@ -135,7 +132,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "junteng88716710"
+  username               : &twitter "weichen_bioai"
 facebook:
   username               :
   app_id                 :
